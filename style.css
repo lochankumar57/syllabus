@@ -1,0 +1,14 @@
+.s1
+{
+	background-color: #fff;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 12px;
+	box-shadow: 0 0 10px #ccc;
+}
+.btn:hover 
+{
+	background-color: #444;
+	box-shadow: 2px 2px 5px grey;
+	font-size: 1.2em;
+}
